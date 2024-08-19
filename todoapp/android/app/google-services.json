@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795458917553",
+    "project_id": "toodoapp-d2bcc",
+    "storage_bucket": "toodoapp-d2bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795458917553:android:b377b0176f41347c3e3e90",
+        "android_client_info": {
+          "package_name": "com.ahmed.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6mVaOuQI8YwzcC-EZ4X59rtlcln9qMwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
